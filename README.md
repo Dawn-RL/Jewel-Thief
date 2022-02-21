@@ -3,7 +3,7 @@ Basic RL Gym environment with some high-value object protected in a vault. Dont 
 
 Work in progress.
 
-9x9 Grid with 2 loot crates and guard
+9x9 Grid with 1 loot crate
 
 ![me](https://github.com/Dawn-RL/Jewel-Thief/blob/main/output.gif)
 
